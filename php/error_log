@@ -1,0 +1,229 @@
+[09-Mar-2024 02:07:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:25
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 25
+[09-Mar-2024 02:13:28 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:38
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 38
+[09-Mar-2024 02:13:30 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:38
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(38): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 38
+[09-Mar-2024 02:19:54 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:33
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 33
+[09-Mar-2024 02:20:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:33
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 33
+[09-Mar-2024 02:21:53 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:33
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 33
+[09-Mar-2024 02:24:06 America/New_York] PHP Warning:  require(includes/db_conn.php): Failed to open stream: No such file or directory in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 2
+[09-Mar-2024 02:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/db_conn.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 2
+[09-Mar-2024 02:24:34 America/New_York] PHP Warning:  require(db_conn.php): Failed to open stream: No such file or directory in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 2
+[09-Mar-2024 02:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'db_conn.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 2
+[09-Mar-2024 02:24:36 America/New_York] PHP Warning:  require(db_conn.php): Failed to open stream: No such file or directory in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 2
+[09-Mar-2024 02:24:36 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'db_conn.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 2
+[09-Mar-2024 02:27:09 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:27
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(27): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 27
+[09-Mar-2024 02:51:01 America/New_York] PHP Warning:  include(includes/head.php): Failed to open stream: No such file or directory in /home/justcjfb/video.justdailyblog.info/php/enterotp.php on line 2
+[09-Mar-2024 02:51:01 America/New_York] PHP Warning:  include(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/justcjfb/video.justdailyblog.info/php/enterotp.php on line 2
+[09-Mar-2024 05:00:02 America/New_York] PHP Parse error:  Unclosed '{' on line 10 in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 89
+[09-Mar-2024 05:01:21 America/New_York] PHP Parse error:  Unclosed '{' on line 10 in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 89
+[09-Mar-2024 05:04:49 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php:43
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/signup_submit.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/signup_submit.php on line 43
+[09-Mar-2024 05:51:56 America/New_York] PHP Warning:  Undefined array key "signup_email" in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 5
+[09-Mar-2024 05:53:20 America/New_York] PHP Warning:  Undefined array key "signup_email" in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 6
+[09-Mar-2024 06:00:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function generateOTP() in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 34
+[09-Mar-2024 06:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function generateOTP() in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 34
+[09-Mar-2024 06:04:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function generateOTP() in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 34
+[09-Mar-2024 08:49:58 America/New_York] PHP Warning:  Undefined array key "signup_email" in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 6
+[09-Mar-2024 11:12:37 America/New_York] PHP Warning:  Undefined array key "signup_email" in /home/justcjfb/video.justdailyblog.info/php/enter_otp.php on line 6
+[11-Mar-2024 02:49:19 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[11-Mar-2024 02:50:24 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[11-Mar-2024 02:52:45 America/New_York] PHP Parse error:  syntax error, unexpected token "." in /home/justcjfb/video.justdailyblog.info/php/enter_otp_buyer.php on line 22
+[11-Mar-2024 02:53:13 America/New_York] PHP Parse error:  syntax error, unexpected token "." in /home/justcjfb/video.justdailyblog.info/php/enter_otp_buyer.php on line 22
+[11-Mar-2024 02:53:16 America/New_York] PHP Parse error:  syntax error, unexpected token "." in /home/justcjfb/video.justdailyblog.info/php/enter_otp_buyer.php on line 22
+[11-Mar-2024 03:10:27 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 82
+[11-Mar-2024 03:11:37 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 82
+[11-Mar-2024 05:28:47 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/seller_login_submit.php on line 12
+[11-Mar-2024 06:09:15 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 82
+[11-Mar-2024 06:11:18 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 82
+[11-Mar-2024 07:45:09 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/seller_login_submit.php on line 12
+[12-Mar-2024 00:56:51 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/buyer_login_submit.php on line 14
+[12-Mar-2024 00:57:20 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/buyer_login_submit.php on line 14
+[12-Mar-2024 00:58:38 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/buyer_login_submit.php on line 13
+[12-Mar-2024 00:58:59 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/buyer_login_submit.php on line 13
+[12-Mar-2024 03:37:24 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/seller_login_submit.php on line 12
+[13-Mar-2024 05:18:35 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 82
+[13-Mar-2024 05:19:20 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 82
+[13-Mar-2024 05:31:29 America/New_York] PHP Warning:  Undefined variable $success_message in /home/justcjfb/video.justdailyblog.info/php/enter_otp_seller.php on line 83
+[13-Mar-2024 05:44:07 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[13-Mar-2024 05:45:03 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[13-Mar-2024 05:45:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'join,_date, verification_code) 
+        VALUES ('manioiu07', '', '1991-11-13...' at line 1 in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php:35
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 35
+[13-Mar-2024 05:46:09 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[13-Mar-2024 05:46:10 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'join,_date, verification_code) 
+        VALUES ('manioiu07', '', '1991-11-13...' at line 1 in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php:35
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 35
+[13-Mar-2024 05:47:18 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[13-Mar-2024 05:47:18 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'join,_date, verification_code) 
+        VALUES ('manioiu07', '', '1991-11-13...' at line 1 in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php:35
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 35
+[13-Mar-2024 05:48:57 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[13-Mar-2024 05:49:02 America/New_York] PHP Warning:  Undefined variable $signin_email in /home/justcjfb/video.justdailyblog.info/php/enter_otp_buyer.php on line 87
+[13-Mar-2024 05:49:53 America/New_York] PHP Warning:  Undefined variable $signin_email in /home/justcjfb/video.justdailyblog.info/php/enter_otp_buyer.php on line 87
+[14-Mar-2024 01:35:00 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 02:45:42 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 02:47:15 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 02:51:25 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 02:51:25 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: The following recipients failed: znetsu106@gmail.cm: The mail server could not deliver mail to znetsu106@gmail.cm.  The account
+or domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+ in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php:1837
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(59): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1837
+[14-Mar-2024 02:51:38 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 02:51:53 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 02:51:53 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: The following recipients failed: znetsu106@gmail.cm: The mail server could not deliver mail to znetsu106@gmail.cm.  The account
+or domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+ in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php:1837
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(59): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1837
+[14-Mar-2024 02:52:53 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 03:07:04 America/New_York] PHP Parse error:  Unmatched '}' in /home/justcjfb/video.justdailyblog.info/php/seller_signup_submit.php on line 93
+[14-Mar-2024 03:07:41 America/New_York] PHP Parse error:  Unmatched '}' in /home/justcjfb/video.justdailyblog.info/php/seller_signup_submit.php on line 93
+[14-Mar-2024 12:44:17 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 12:45:40 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 12:46:41 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[14-Mar-2024 12:55:58 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[15-Mar-2024 03:52:22 America/New_York] PHP Warning:  Undefined array key "user_id" in /home/justcjfb/video.justdailyblog.info/php/seller_login_submit.php on line 12
+[18-Mar-2024 03:32:00 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: The following recipients failed: qwe@qscart.com: The mail server could not deliver mail to qwe@qscart.com.  The account or
+domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+ in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php:1837
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/justcjfb/video.justdailyblog.info/php/seller_signup_submit.php(74): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1837
+[21-Mar-2024 02:27:45 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[21-Mar-2024 02:28:08 America/New_York] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[27-Mar-2024 18:19:49 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[27-Mar-2024 18:19:52 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[27-Mar-2024 18:20:07 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[28-Mar-2024 16:20:27 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[28-Mar-2024 16:20:49 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[28-Mar-2024 16:48:51 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[28-Mar-2024 18:24:11 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[29-Mar-2024 17:49:06 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[02-Apr-2024 12:04:25 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[02-Apr-2024 12:04:25 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to): test.@2.a in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php:1067
+Stack trace:
+#0 [internal function]: PHPMailer\PHPMailer\PHPMailer->addAnAddress()
+#1 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1030): call_user_func_array()
+#2 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(934): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#3 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(52): PHPMailer\PHPMailer\PHPMailer->addAddress()
+#4 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1067
+[02-Apr-2024 12:04:49 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[02-Apr-2024 12:05:48 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[03-Apr-2024 09:31:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/justcjfb/video.justdailyblog.info/includes/db_conn.php:6
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/includes/db_conn.php(6): mysqli->__construct()
+#1 /home/justcjfb/video.justdailyblog.info/php/seller_signup_submit.php(3): include('/home/justcjfb/...')
+#2 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/includes/db_conn.php on line 6
+[03-Apr-2024 09:34:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/justcjfb/video.justdailyblog.info/includes/db_conn.php:6
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/includes/db_conn.php(6): mysqli->__construct()
+#1 /home/justcjfb/video.justdailyblog.info/php/seller_signup_submit.php(3): include('/home/justcjfb/...')
+#2 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/includes/db_conn.php on line 6
+[03-Apr-2024 10:02:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/justcjfb/video.justdailyblog.info/includes/db_conn.php:6
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/includes/db_conn.php(6): mysqli->__construct()
+#1 /home/justcjfb/video.justdailyblog.info/php/login_submit.php(3): include('/home/justcjfb/...')
+#2 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/includes/db_conn.php on line 6
+[06-Apr-2024 06:59:11 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 06:59:13 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[06-Apr-2024 07:00:28 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 07:04:10 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 07:04:18 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 07:04:41 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 07:04:44 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/justcjfb/video.justdailyblog.info/smtp/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1960
+[06-Apr-2024 07:07:55 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 07:12:33 UTC] PHP Warning:  Undefined array key "signin_username" in /home/justcjfb/video.justdailyblog.info/php/enter_otp_buyer.php on line 5
+[06-Apr-2024 07:12:47 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 18:16:35 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 18:16:53 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
+[06-Apr-2024 18:17:36 UTC] PHP Warning:  Undefined array key "company_name" in /home/justcjfb/video.justdailyblog.info/php/buyer_signup_submit.php on line 15
